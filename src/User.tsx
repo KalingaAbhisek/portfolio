@@ -1,7 +1,7 @@
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandX, IconBrandYoutube, IconBrandWhatsapp } from "@tabler/icons-react";
 const Info = {
     name: "Kalinga Abhisek",
-    stack: ["SWE-1 at TraceLink", "Full Stack Developer", "Programmer"],
+    stack: ["SWE-1 at TraceLink", "Full Stack Developer", "Programmer", "Tech Enthusiast"],
     bio: "I’m a software engineer with 1 year of experience in designing and developing solutions using JavaScript and Java. Skilled in full-stack development and agile methodologies, I excel in dynamic environments and am passionate about solving complex problems and driving success. Always eager to learn and embrace new challenges."
 }
 
