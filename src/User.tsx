@@ -1,7 +1,7 @@
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandX, IconBrandYoutube, IconBrandWhatsapp } from "@tabler/icons-react";
 const Info = {
     name: "Kalinga Abhisek",
-    stack: ["Software Engineer - 1 at TraceLink", "Full Stack Developer", "Programmer"],
+    stack: ["SWE-1 at TraceLink", "Full Stack Developer", "Programmer"],
     bio: "I’m a software engineer with 1 year of experience in designing and developing solutions using JavaScript and Java. Skilled in full-stack development and agile methodologies, I excel in dynamic environments and am passionate about solving complex problems and driving success. Always eager to learn and embrace new challenges."
 }
 
@@ -63,14 +63,14 @@ const ExperienceInfo = [
         company: "TraceLink",
         date: "July 2024 - Present",
         desc: "Developed UI and integrated backend for some features such as Audit Trail and My Company Profile. Designed and developed notification feature for file export and import in B2B Integrations to enhance user experience. Developed solutions for uploading files and downloading files to and from AWS S3 bucket. Worked closely with product managers, UI/UX designers, and QA teams to deliver high-quality features and ensure seamless integration.",
-        skills: ["React", "Javascript", "GraphQL", "AWS", "Jenkins", "JIRA", "Postman"]
+        skills: ["React", "Javascript", "GraphQL", "AWS", "Jenkins", "Jest", "JIRA", "Postman"]
     },
     {
         role: "Software Engineer Intern",
         company: "TraceLink",
         date: "Mar 2024 - June 2024",
         desc: "Conducted rigorous UI testing on Life Science Cloud (LSC) platform for various applications including SNX, SNM and PIE. Designed and developed user interface for Audit Trail Records in Opus, ensuring compliance with industry standards. Integrated GraphQL queries with frontend for seamless data retrieval. Maintained adherence to industry-standard coding practices throughout development process.",
-        skills: ["React", "Javascript", "GraphQL", "AWS", "Jenkins", "JIRA", "Postman"]
+        skills: ["React", "Javascript", "GraphQL", "AWS", "Jenkins", "Jest", "JIRA", "Postman"]
     },
     {
         role: "Software Engineer Intern",
